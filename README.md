@@ -19,9 +19,9 @@ Dublin](https://www.tcd.ie).
 * [pdf slides](/handouts/handout-00-introduction.pdf)
 
 
-## 01 - Introduction
+## 01 - Human Visual System
 
-* [pdf slides](/handouts/handout-01-introduction.pdf)
+* [pdf slides](/handouts/handout-01-human-visual-system.pdf)
 
 
 
