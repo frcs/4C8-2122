@@ -37,4 +37,12 @@ Dublin](https://www.tcd.ie).
 * [pt1 - pdf slides](/handouts/handout-04-xforms-pt1.pdf)
 * [pt2 - pdf slides](/handouts/handout-04-xforms-pt2.pdf)
 
+## Tutorials
+* [tutorial 1 (pdf)](/tutorials/tutorial-01.pdf)
+* [tutorial 1 Q1 helper on z-transform (pdf)](/tutorials/tutorial-01-helper.pdf)
+* [video tutorial 1 - Q4 (16/02/2018)](https://youtu.be/UwuosXZgu2I)
+* [sample exam (based on the 2016/2017 exam) (pdf)](/tutorials/EEC08-sample-exam.pdf)
+* [sample exam solutions (pdf)](/tutorials/EE4C08-sample-exam-solution.pdf)
+* [all previous year question papers](/tutorials/)
+
 
